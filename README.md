@@ -4,9 +4,6 @@
 
 A simple web application built with Next.js to summarize lengthy text content using AI, providing concise insights quickly.
 
-![Brevity AI Screenshot](placeholder.png) 
-*(Optional: Ganti placeholder.png dengan screenshot aplikasi Anda)*
-
 ## ✨ Features
 
 * **AI-Powered Summarization**: Utilizes an AI model via an external API to generate accurate and relevant summaries.
